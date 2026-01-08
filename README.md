@@ -32,3 +32,49 @@ The project demonstrates my skills in test case design, bug reporting, and test 
 -Functional Testing
 -UI Testing
 -Smoke testing
+
+---
+## 📂 Repository Structure
+qa-portfolio-saucedemo1 │ ├── Test_Cases │   ├── Login_Test_Cases.md │   ├── Cart_Test_Cases.md │   └── Checkout_Test_Cases.md │ ├── Bug_Reports │   └── Login_Bug_Report.md │ └── README.md
+
+---
+
+## ✅ Test Cases
+
+### 🔐 Login Page
+- Valid login
+- Invalid username
+- Invalid password
+- Empty fields
+- Locked out user
+
+📄 File: Test_Cases/Login_Test_Cases.md
+
+---
+
+## 🐞 Bug Reports
+Bug reports are written using a standard QA format including:
+- Steps to reproduce
+- Actual result
+- Expected result
+- Severity and Priority
+
+📄 File: Bug_Reports/Login_Bug_Report.md
+
+---
+
+## 🛠 Tools & Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- GitHub
+- Markdown
+- SDLC / STLC basics
+
+---
+
+## 👤 Author
+Samandar Xusanov  
+Junior Manual QA Engineer (Entry Level)
+
+📧 Open to internship / junior QA opportunities
